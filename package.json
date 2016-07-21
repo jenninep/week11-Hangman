@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Hangman assignment empowered by JavaScript constructors.This Hangman game will run entirely with Node.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenninep/week11-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenninep/week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/jenninep/week11-Hangman#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
