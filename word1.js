@@ -18,7 +18,7 @@ function Word(wrd) {
 // the letter class NOT JUST STRINGS)
 Word.prototype.convertString = function() {
     // break up this.gameword
-    // var brokenWordArray = this.gameWord.split('');
+    var brokenWordArray = this.gameWord.split('');
     // ***********using array.forEach iterator****
     // for each string in the brokenWordArray
     brokenWordArray.forEach(function(brokenElement) {

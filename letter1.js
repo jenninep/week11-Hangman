@@ -14,7 +14,7 @@ function Letter(char) {
 }
 
 Letter.prototype.display = function() {
-    if (this.guessedCorrectly == true) {
+    if (this.guessedCorrectly === true) {
         return this.character;
     } else {
         return '_';
